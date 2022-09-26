@@ -8,6 +8,7 @@ For example:
 
 > print(pythagoreanTheorem(2, 2))   result: 2.8284271247461903
 
+[code](code)
 ```python3
 import math
 
