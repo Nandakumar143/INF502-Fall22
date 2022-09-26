@@ -6,8 +6,8 @@ The function returns the length of the hypotenuse assuming that length_a and len
 
 For example:
 
->> print(pythagoreanTheorem(2, 2))
-   2.8284271247461903
+> print(pythagoreanTheorem(2, 2))
+>  2.8284271247461903
 
 ```python3
 
