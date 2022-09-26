@@ -10,10 +10,6 @@ For example:
 
 ```python3
 import math
-# 1. Write a function with the following signature: pythagoreanTheorem(length_a, length_b).
-# The function returns the length of the hypotenuse assuming that length_a and length_b are the 
-# lengths of the two legs of a right triangle (the legs that form the triangle's right angle). 
-# Hint: the math module might have useful functions to use.
 
 def pythagoreanTheorem(length_a, length_b):
     return math.sqrt(length_a ** 2 + length_b ** 2)  # return the square root of square(length_a + length_b)
